@@ -9,10 +9,11 @@
 ## 📦 Tecnologias usadas
 - Node JS
 - TypeScript
-- Postgress
 - Docker Compose
 - Fastify
 - Biome
+- Postgress
+- Redis
 
 ## 👷 Autores
 
