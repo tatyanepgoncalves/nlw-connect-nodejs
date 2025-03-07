@@ -3,8 +3,18 @@ Content-Type: application/json
 
 {
   "name": "Tatyane Gonçalves",
-  "email": "taty@gmail.com"
+  "email": "tatyanegoncalves@gmail.com",
 }
 
 ### 
 GET http://localhost:3333/invites/taty123
+
+###
+GET http://localhost:3333/subscribers/taty123/ranking/clicks
+
+
+###
+GET http://localhost:3333/subscribers/taty123/ranking/count
+
+###
+GET http://localhost:3333/subscribers/taty123/ranking/position
